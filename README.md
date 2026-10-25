@@ -1,19 +1,49 @@
-# Salah Eddine Essaoudy
+<div align="center">
 
-**Full-Stack Developer · Graphic Designer**
-
-Building web experiences and creating digital designs.
+```text
+                   ..                    .+...                Salah Eddine Essaoudy ─────────────────────────────
+                  . ..               ..++.  .                 
+                 . .. ....       .+%%+.    .                  . Role: ........ Full-Stack Developer · Graphic Designer
+                 .  . .      ...%#%+  .+++.                   . Focus: ....... Web experiences & digital design
+                 .    .        .+..+%##%+                     . Location: .... Tangier, Morocco
+                 .    .        . +##%+                        
+                 .  . .       . +###.                         — Languages ───────────────────────────────────────
+                  . . .      ..%#+.++                         . Core: ........ HTML · CSS · JavaScript · PHP · Python
+                  ... .      .++.   .                         
+                   ...               .                        — Development ─────────────────────────────────────
+                   . . ++.           .                        . Stack: ....... React · Next.js · Node.js
+                  +%.  ##%%+..       .                        . Styling: ..... Tailwind CSS
+                 +####%#++####%%.     .                       . CMS: ......... WordPress
+                +######+ +######%.+  .++                      
+               +######.  +######+%#+%#%.                      — Databases ───────────────────────────────────────
+              +######.   +#####%+####+ .                      . SQL: ......... MySQL
+             +######.    +##########. ..                      . NoSQL: ....... MongoDB
+            %######      +#########%+%%+.                     
+           %######       +###########%..                      — Design & Tools ──────────────────────────────────
+          %#####%        +##########+  .                      . Design: ...... Figma · Framer · Affinity Designer
+         %#####%         +#########++%%..                     . Photo: ....... Affinity Photo
+        %#####%          +###########%+.                      . VCS: ......... Git · GitHub
+       %#####%           +#########%+...             .%#+     
+     +######%            +##########+.+.          .+%####%    — Contact ─────────────────────────────────────────
+...+###################################################%.     . Instagram: ... @esaosalah
++####################################################+.       . LinkedIn: .... Salah Eddine Essaoudy
+  .%###############################################+          
+    .############%%%+++..%##########+  ..++%######.           
+      #####%%+.          +##########+       .%###+            
+      .##+               +##########+          ..             
+       .                 +##########+                         
+                         +##########+                         
+                         +##########+                         
+                         +##########+                         
+                         +##########+                         
+                         %##########+                         
+                       .+############.                        
+                      .%##############.                       
+                         .%#######%+..                        
+                            +###%.                            
+                             .#+
+```
 
 [Instagram](https://instagram.com/esaosalah) · [LinkedIn](https://linkedin.com/in/salaheddineessaoudy)
 
----
-
-### Tech Stack
-
-**Languages:** HTML · CSS · JavaScript · PHP · Python
-
-**Development:** React · Next.js · Node.js · Tailwind CSS · WordPress
-
-**Databases:** MySQL · MongoDB
-
-**Design & Tools:** Figma · Framer · Affinity Designer · Affinity Photo · Git · GitHub
+</div>
